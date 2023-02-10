@@ -17,3 +17,9 @@
 ## Author
 
 Saggurthi Veera Phani
+
+## Project Media
+
+![image](https://user-images.githubusercontent.com/116447342/218006179-68a26d62-6253-4b87-bce9-2110ea7b39c7.png)
+
+![image](https://user-images.githubusercontent.com/116447342/218006384-d2f115d1-d10b-4033-96ed-13c565d6ddd4.png)
